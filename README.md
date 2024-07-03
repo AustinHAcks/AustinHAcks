@@ -1,13 +1,13 @@
 [![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h3 align="center">
-  Welcome to Naem Azam's profile!
+  Welcome to AustinHAcks profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Naem+Azam;I'm+Self-taught+Programmer;I+am+an+open-source+enthusiast;I+am+a+creator;I+am+a+system+analyzer;I+am+a+researcher"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+AustinHAcks;I'm+Self-taught+Programmer;I am a self taught hacker></a>
   </h2>
  
  <!-- platfrom -->
