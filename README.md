@@ -50,7 +50,7 @@
 
 - **CTFs completed and Badges and certs earned**:
 
-    ![Github Pages](https://logowik.com/kali-linux-logo-vector-svg-pdf-ai-eps-cdr-free-download-1-11579.html)
+    ![Kali-Linux](https://logowik.com/content/uploads/images/kali-linux2962.jpg)
     
 <br>
 
