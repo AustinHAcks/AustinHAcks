@@ -48,9 +48,9 @@
 
 <br>
 
-- **Cloud Hosting**:
+- **CTFs completed and Badges and certs earned**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Github Pages](https://logowik.com/kali-linux-logo-vector-svg-pdf-ai-eps-cdr-free-download-1-11579.html)
     
 <br>
 
