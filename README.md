@@ -50,7 +50,7 @@
 
 - **CTFs completed and Badges and certs earned**:
 
-    ![Kali-Linux](https://logowik.com/content/uploads/images/kali-linux2962.jpg)
+    ![Kali-Linux](https://i0.wp.com/www.capecodofficeconsultants.com/wp-content/uploads/2020/07/kali-linux-logo-png-kali-linux-sticker-11562906380yd7rjhslr1.png?resize=293%2C300&ssl=1)
     
 <br>
 
